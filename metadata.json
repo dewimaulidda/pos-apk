@@ -1,0 +1,6 @@
+{
+  "name": "Layanan Surat & Administrasi Mandiri Desa",
+  "description": "Sistem Layanan Surat & Administrasi Mandiri Desa dengan Autofill NIK, Cetak PDF Resmi Ber-KOP & QR Code, dan Notifikasi WhatsApp Otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
